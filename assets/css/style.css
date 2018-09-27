@@ -19,8 +19,9 @@
 }
 /*body imagen presentación*/
 .banner{
-  filter: blur(3px);
+  filter: blur(2px);
 }
+/* body*/
 .contenedor{
   position: relative;
   display: inline-block;
@@ -66,7 +67,7 @@ body {
   margin: 0;
 
 }
-
+ /* cambios de body*/
 html {
   height: 100vh;
   width: 100vw;
@@ -101,6 +102,15 @@ body:after {
   column-gap: 2em;
   column-rule: 1px solid #ffffff;
   white-space: pre-wrap;
+}
+
+ /* footer 1*/
+ .footer1{
+  background-color: #aec4c7;
+  margin-top: 10%;
+}
+li{
+  list-style: none;
 }
 
 @media (max-width: 850px) {
@@ -332,9 +342,3 @@ body {
 
 
 
-
- /* footer 1*/
- .footer1{
-   background-color: #aec4c7;
-   margin-top: 10%;
- }
