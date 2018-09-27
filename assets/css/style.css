@@ -106,11 +106,10 @@ body:after {
 }
 
 /*service*/
-.aire{
-  margin-top: 3%;
-}
+
 .servicios{
-  background-color: #4f3204;
+  background-color: #adc3c6;
+    
 }
 /* proyectos*/
 
@@ -118,7 +117,7 @@ body:after {
   margin-top: 0%;
   text-align: center;
   font-family: 'Oswald', sans-serif;
-  font-size: 300%;
+  font-size: 200%;
 }
 .galeria-proyecto{
   margin-left: 10%;
